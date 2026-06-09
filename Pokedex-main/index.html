@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/header.css">
+    <link rel="stylesheet" href="style/main.css">
+    <link rel="stylesheet" href="style/scroll bar.css">
+    <link rel="stylesheet" href="style/filter.css">
+
+
+    <link rel="icon" href="img/web icon.png" type="image/png">
+
+    <title>Pokedex</title>
+
+
+
+
+
+
+
+</head>
+<body>
+        <!----------Header---------->
+    <header class="header">
+
+        <!--------Logo-------->
+        <div class="logo">
+            <a href="index.html">
+                <img src="img/icon.png" alt="pokedex">
+            </a>
+        </div>
+
+            <!--------Search-------->
+        <div class="search-container">
+            <a href="search.html">
+                <button type="button" class="search button">
+                    <img src="img/search icon.png" alt="search">
+                </button>
+            </a>
+            
+            <button type="button" class="search filter">
+                <img src="img/filter icon.png" alt="!">
+            </button>
+
+        </div>
+
+    </header>
+
+
+
+    <!-- Empty area -->
+    <div id="aaaa"></div>
+
+    <div class="warning">
+        <div class="unused">
+            <h3>
+                Warning: The following content will contain numerous bugs.
+            </h3>
+            <br>
+            <p>
+                These are the Pokémon that are provided by PokéAPI but haven't been added by me.
+            </p>
+            <br>
+            <p>
+                <h4>
+                You might be wondering:
+                </h4>
+            </p>
+            <br>
+
+
+            <div>
+                &cir;  Why didn't I add them ?<br>
+                &rArr; Well, I'm feeling a bit lazy. <br>
+                &cir;  Why did I include them here ?<br>
+                &rArr; Simply put, because I wanted to do that. 😶
+            </div>
+        </div>
+    </div>
+    
+
+
+    <!------Container for all the pokemon boxes------>
+    <div class="container"></div>
+
+
+
+    <!----------Loading button---------->
+    <div id ="aaa">
+        <div id="load-container">
+            <img src="img/loading icon.png" alt="" id="loading-image">
+            <button class="loading-button">load more pokemons</button>
+        </div>
+    </div>
+
+    <div class="loading"><img src="img/loading icon.png" alt="0"> Loading...</div>
+    
+    <div class="blur">
+        <div class="filter-container">
+            <div class="title-close">
+                <div class="title">Filter by :</div>
+                <div class="close">&times;</div>
+            </div>
+            <div>
+                <div class="category">
+                    <div class="options selected">None</div>
+                    <div class="options">Type</div>
+                    <div class="options">GEN</div>
+                    <div class="options">Class</div>
+                </div>
+                <div class="sub-options">
+                    <div class="none visible">This shows all Pokemons</div>
+                    <div class="box type">
+                        <div class="options">Normal</div>
+                        <div class="options">Fighting</div>
+                        <div class="options">Flying</div>
+                        <div class="options">Poison</div>
+                        <div class="options">Ground</div>
+                        <div class="options">Rock</div>
+                        <div class="options">Bug</div>
+                        <div class="options">Ghost</div>
+                        <div class="options">Steel</div>
+                        <div class="options">Fire</div>
+                        <div class="options">Water</div>
+                        <div class="options">Grass</div>
+                        <div class="options">Electric</div>
+                        <div class="options">Psychic</div>
+                        <div class="options">Ice</div>
+                        <div class="options">Dragon</div>
+                        <div class="options">Dark</div>
+                        <div class="options">Fairy</div>
+                    </div>
+                    <div class="box gen">
+                        <div class="options">GEN 1</div>
+                        <div class="options">GEN 2</div>
+                        <div class="options">GEN 3</div>
+                        <div class="options">GEN 4</div>
+                        <div class="options">GEN 5</div>
+                        <div class="options">GEN 6</div>
+                        <div class="options">GEN 7</div>
+                        <div class="options">GEN 8</div>
+                        <div class="options">GEN 9</div>
+                    </div>
+                    <div class="box class">
+                        <div class="options">Starter</div>
+                        <div class="options">Baby</div>
+                        <div class="options">Ancient</div>
+                        <div class="options">Alt-forms</div>
+                        <div class="options">Ultra beast</div>
+                        <div class="options">Legendary</div>
+                        <div class="options">P-legendary</div>
+                        <div class="options">Mythical</div>
+                        <div class="options">Paradox</div>
+                        <div class="options">Unused</div>
+
+                    </div>
+                </div>
+                <div class="active-option">Selected : None</div>
+                <div class="buttons-container">
+                    <button>Cancel</button>
+                    <button>Apply</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+
+    <!--Script-->
+    <script src="script/index_script.js"></script>
+
+</body>
+</html>

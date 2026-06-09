@@ -1,0 +1,136 @@
+
+.n8{
+    width: 550px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.n9{
+    width: 550px;
+    height: 307px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+}
+.n8 h2,.n9 h2{
+    color: #cecece;
+    margin-right: auto;
+    margin-bottom: 5px;
+    width: 100%;
+
+}
+
+.options{
+    background-color: #1f2e43a2;
+    min-width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 14px;
+    cursor: pointer;
+    margin-top: 5px;
+    color: #cecece;
+    padding: 4px;
+}
+.options:hover{
+    background-color: #1d70e6;
+    color: #cecece;
+}
+.active {
+    background-color: #1d70e6;
+}
+.details-container{
+    width: 100%;
+    margin: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom:auto ;
+}
+.details{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align:justify;
+    border: 1px solid #cecece36;
+    background-color: #63677e60;
+    color: #cecece;
+    min-height: 90px;
+    max-height: 150px;
+    margin: 5px;
+    font-size: 18px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    border-radius: 5px;
+}
+.details p{
+    height: 95%;
+    width: 95%;
+}
+.div-container{
+    width: 100%;
+    margin: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.base{
+    min-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #cecece36;
+    background-color: #63677e60;
+    color: #cecece;
+    border-radius: 10px;
+}
+.half{
+    width: 49%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.full{
+    width: 100%;
+}
+.gender{
+    min-height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: 1px solid #cecece36;
+    background-color: #63677e60;
+    color: #cecece;
+}
+
+.genderless{
+    width: 100%;
+    border: 1px solid #00000036;
+    background-color: #222535da;
+    color: #c2c2c2;
+}
+.male{
+    border: 0;
+    background-color: #00b7ff85; 
+    color: #c2c2c2;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.female{
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border: 0;
+    background-color: #db3d9f85;
+    color: #c2c2c2;
+}
+
+@media (max-width:500px) {
+    #EV{
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,466 @@
+[
+    {
+        "id": 910,
+        "name": "crocalor"
+    },
+    {
+        "id": 911,
+        "name": "skeledirge"
+    },
+    {
+        "id": 912,
+        "name": "quaxly"
+    },
+    {
+        "id": 913,
+        "name": "quaxwell"
+    },
+    {
+        "id": 914,
+        "name": "quaquaval"
+    },
+    {
+        "id": 915,
+        "name": "lechonk"
+    },
+    {
+        "id": 916,
+        "name": "oinkologne"
+    },
+    {
+        "id": 917,
+        "name": "tarountula"
+    },
+    {
+        "id": 918,
+        "name": "spidops"
+    },
+    {
+        "id": 919,
+        "name": "nymble"
+    },
+    {
+        "id": 920,
+        "name": "lokix"
+    },
+    {
+        "id": 921,
+        "name": "pawmi"
+    },
+    {
+        "id": 922,
+        "name": "pawmo"
+    },
+    {
+        "id": 923,
+        "name": "pawmot"
+    },
+    {
+        "id": 924,
+        "name": "tandemaus"
+    },
+    {
+        "id": 925,
+        "name": "maushold"
+    },
+    {
+        "id": 926,
+        "name": "fidough"
+    },
+    {
+        "id": 927,
+        "name": "dachsbun"
+    },
+    {
+        "id": 928,
+        "name": "smoliv"
+    },
+    {
+        "id": 929,
+        "name": "dolliv"
+    },
+    {
+        "id": 930,
+        "name": "arboliva"
+    },
+    {
+        "id": 931,
+        "name": "squawkabilly"
+    },
+    {
+        "id": 932,
+        "name": "nacli"
+    },
+    {
+        "id": 933,
+        "name": "naclstack"
+    },
+    {
+        "id": 934,
+        "name": "garganacl"
+    },
+    {
+        "id": 935,
+        "name": "charcadet"
+    },
+    {
+        "id": 936,
+        "name": "armarouge"
+    },
+    {
+        "id": 937,
+        "name": "ceruledge"
+    },
+    {
+        "id": 938,
+        "name": "tadbulb"
+    },
+    {
+        "id": 939,
+        "name": "bellibolt"
+    },
+    {
+        "id": 940,
+        "name": "wattrel"
+    },
+    {
+        "id": 941,
+        "name": "kilowattrel"
+    },
+    {
+        "id": 942,
+        "name": "maschiff"
+    },
+    {
+        "id": 943,
+        "name": "mabosstiff"
+    },
+    {
+        "id": 944,
+        "name": "shroodle"
+    },
+    {
+        "id": 945,
+        "name": "grafaiai"
+    },
+    {
+        "id": 946,
+        "name": "bramblin"
+    },
+    {
+        "id": 947,
+        "name": "brambleghast"
+    },
+    {
+        "id": 948,
+        "name": "toedscool"
+    },
+    {
+        "id": 949,
+        "name": "toedscruel"
+    },
+    {
+        "id": 950,
+        "name": "klawf"
+    },
+    {
+        "id": 951,
+        "name": "capsakid"
+    },
+    {
+        "id": 952,
+        "name": "scovillain"
+    },
+    {
+        "id": 953,
+        "name": "rellor"
+    },
+    {
+        "id": 954,
+        "name": "rabsca"
+    },
+    {
+        "id": 955,
+        "name": "flittle"
+    },
+    {
+        "id": 956,
+        "name": "espathra"
+    },
+    {
+        "id": 957,
+        "name": "tinkatink"
+    },
+    {
+        "id": 958,
+        "name": "tinkatuff"
+    },
+    {
+        "id": 959,
+        "name": "tinkaton"
+    },
+    {
+        "id": 960,
+        "name": "wiglett"
+    },
+    {
+        "id": 961,
+        "name": "wugtrio"
+    },
+    {
+        "id": 962,
+        "name": "bombirdier"
+    },
+    {
+        "id": 963,
+        "name": "finizen"
+    },
+    {
+        "id": 964,
+        "name": "palafin"
+    },
+    {
+        "id": 965,
+        "name": "varoom"
+    },
+    {
+        "id": 966,
+        "name": "revavroom"
+    },
+    {
+        "id": 967,
+        "name": "cyclizar"
+    },
+    {
+        "id": 968,
+        "name": "orthworm"
+    },
+    {
+        "id": 969,
+        "name": "glimmet"
+    },
+    {
+        "id": 970,
+        "name": "glimmora"
+    },
+    {
+        "id": 971,
+        "name": "greavard"
+    },
+    {
+        "id": 972,
+        "name": "houndstone"
+    },
+    {
+        "id": 973,
+        "name": "flamigo"
+    },
+    {
+        "id": 974,
+        "name": "cetoddle"
+    },
+    {
+        "id": 975,
+        "name": "cetitan"
+    },
+    {
+        "id": 976,
+        "name": "veluza"
+    },
+    {
+        "id": 977,
+        "name": "dondozo"
+    },
+    {
+        "id": 978,
+        "name": "tatsugiri"
+    },
+    {
+        "id": 979,
+        "name": "annihilape"
+    },
+    {
+        "id": 980,
+        "name": "clodsire"
+    },
+    {
+        "id": 981,
+        "name": "farigiraf"
+    },
+    {
+        "id": 982,
+        "name": "dudunsparce"
+    },
+    {
+        "id": 983,
+        "name": "kingambit"
+    },
+    {
+        "id": 984,
+        "name": "great tusk"
+    },
+    {
+        "id": 985,
+        "name": "scream tail"
+    },
+    {
+        "id": 986,
+        "name": "brute bonnet"
+    },
+    {
+        "id": 987,
+        "name": "flutter mane"
+    },
+    {
+        "id": 988,
+        "name": "slither wing"
+    },
+    {
+        "id": 989,
+        "name": "sandy shocks"
+    },
+    {
+        "id": 990,
+        "name": "iron treads"
+    },
+    {
+        "id": 991,
+        "name": "iron bundle"
+    },
+    {
+        "id": 992,
+        "name": "iron hands"
+    },
+    {
+        "id": 993,
+        "name": "iron jugulis"
+    },
+    {
+        "id": 994,
+        "name": "iron moth"
+    },
+    {
+        "id": 995,
+        "name": "iron thorns"
+    },
+    {
+        "id": 996,
+        "name": "frigibax"
+    },
+    {
+        "id": 997,
+        "name": "arctibax"
+    },
+    {
+        "id": 998,
+        "name": "baxcalibur"
+    },
+    {
+        "id": 999,
+        "name": "gimmighoul"
+    },
+    {
+        "id": 1000,
+        "name": "gholdengo"
+    },
+    {
+        "id": 1001,
+        "name": "wo chien"
+    },
+    {
+        "id": 1002,
+        "name": "chien pao"
+    },
+    {
+        "id": 1003,
+        "name": "ting lu"
+    },
+    {
+        "id": 1004,
+        "name": "chi yu"
+    },
+    {
+        "id": 1005,
+        "name": "roaring moon"
+    },
+    {
+        "id": 1006,
+        "name": "iron valiant"
+    },
+    {
+        "id": 1007,
+        "name": "koraidon"
+    },
+    {
+        "id": 1008,
+        "name": "miraidon"
+    },
+    {
+        "id": 1009,
+        "name": "walking wake"
+    },
+    {
+        "id": 1010,
+        "name": "iron leaves"
+    },
+    {
+        "id": 1011,
+        "name": "dipplin"
+    },
+    {
+        "id": 1012,
+        "name": "poltchageist"
+    },
+    {
+        "id": 1013,
+        "name": "sinistcha"
+    },
+    {
+        "id": 1014,
+        "name": "okidogi"
+    },
+    {
+        "id": 1015,
+        "name": "munkidori"
+    },
+    {
+        "id": 1016,
+        "name": "fezandipiti"
+    },
+    {
+        "id": 1017,
+        "name": "ogerpon"
+    },
+    {
+        "id": 1018,
+        "name": "archaludon"
+    },
+    {
+        "id": 1019,
+        "name": "hydrapple"
+    },
+    {
+        "id": 1020,
+        "name": "gouging fire"
+    },
+    {
+        "id": 1021,
+        "name": "raging bolt"
+    },
+    {
+        "id": 1022,
+        "name": "iron boulder"
+    },
+    {
+        "id": 1023,
+        "name": "iron crown"
+    },
+    {
+        "id": 1024,
+        "name": "terapagos"
+    },
+    {
+        "id": 1025,
+        "name": "pecharunt"
+    }
+]

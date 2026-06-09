@@ -1,0 +1,1068 @@
+[
+    {
+        "api_id": "10033",
+        "id": 3,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10195",
+        "id": 3,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10034",
+        "id": 6,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10035",
+        "id": 6,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10196",
+        "id": 6,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10036",
+        "id": 9,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10197",
+        "id": 9,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10198",
+        "id": 12,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10090",
+        "id": 15,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10073",
+        "id": 18,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10091",
+        "id": 19,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10092",
+        "id": 20,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10199",
+        "id": 25,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10100",
+        "id": 26,
+        "form":"Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10101",
+        "id": 27,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10102",
+        "id": 28,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10103",
+        "id": 37,
+        "form":"Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10104",
+        "id": 38,
+        "form":"Alternative",
+        "sub_name":"Alolan"
+    },
+        {
+        "api_id": "10105",
+        "id": 50,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10106",
+        "id": 51,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10200",
+        "id": 52,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10107",
+        "id": 52,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10161",
+        "id": 52,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10108",
+        "id": 53,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10229",
+        "id": 58,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10230",
+        "id": 59,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10037",
+        "id": 65,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10201",
+        "id": 68,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10109",
+        "id": 74,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10110",
+        "id": 75,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10111",
+        "id": 76,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10162",
+        "id": 77,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10163",
+        "id": 78,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10164",
+        "id": 79,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10071",
+        "id": 80,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10165",
+        "id": 80,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10166",
+        "id": 83,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10112",
+        "id": 88,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10113",
+        "id": 89,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10038",
+        "id": 94,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10202",
+        "id": 94,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10203",
+        "id": 99,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10231",
+        "id": 100,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10232",
+        "id": 101,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10114",
+        "id": 103,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10115",
+        "id": 105,
+        "form": "Alternative",
+        "sub_name":"Alolan"
+    },
+    {
+        "api_id": "10167",
+        "id": 110,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10039",
+        "id": 115,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10168",
+        "id": 122,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10040",
+        "id": 127,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10041",
+        "id": 130,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10204",
+        "id": 131,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10205",
+        "id": 133,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10042",
+        "id": 142,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10206",
+        "id": 143,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10169",
+        "id": 144,
+        "form":"Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10170",
+        "id": 145,
+        "form":"Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10171",
+        "id": 146,
+        "form":"Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10043",
+        "id": 150,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10044",
+        "id": 150,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10233",
+        "id": 157,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10045",
+        "id": 181,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10253",
+        "id": 194,
+        "form":"Alternative",
+        "sub_name":"Paldean"
+    },
+    {
+        "api_id": "10172",
+        "id": 199,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10072",
+        "id": 208,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10234",
+        "id": 211,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10046",
+        "id": 212,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10047",
+        "id": 214,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10235",
+        "id": 215,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10173",
+        "id": 222,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10048",
+        "id": 229,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10049",
+        "id": 248,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10065",
+        "id": 254,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10050",
+        "id": 257,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10064",
+        "id": 260,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10174",
+        "id": 263,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10175",
+        "id": 264,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10051",
+        "id": 282,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10066",
+        "id": 302,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10052",
+        "id": 303,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10053",
+        "id": 306,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10054",
+        "id": 308,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10055",
+        "id": 310,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10070",
+        "id": 319,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10087",
+        "id": 323,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10067",
+        "id": 334,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10013",
+        "id": 351,
+        "form":"Alternative",
+        "sub_name":"Sunny"
+    },
+    {
+        "api_id": "10014",
+        "id": 351,
+        "form":"Alternative",
+        "sub_name":"Rainy"
+    },
+    {
+        "api_id": "10015",
+        "id": 351,
+        "form":"Alternative",
+        "sub_name":"Snowy"
+    },
+    {
+        "api_id": "10056",
+        "id": 354,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10057",
+        "id": 359,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10074",
+        "id": 362,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10089",
+        "id": 373,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10076",
+        "id": 376,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10062",
+        "id": 380,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10063",
+        "id": 381,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10077",
+        "id": 382,
+        "form": "Alternative",
+        "sub_name":"Primal"
+    },
+    {
+        "api_id": "10078",
+        "id": 383,
+        "form": "Alternative",
+        "sub_name":"Primal"
+    },
+    {
+        "api_id": "10079",
+        "id": 384,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10001",
+        "id": 386,
+        "form":"Alternative",
+        "sub_name":"Attack"
+    },
+    {
+        "api_id": "10002",
+        "id": 386,
+        "form":"Alternative",
+        "sub_name":"Defense"
+    },
+    {
+        "api_id": "10003",
+        "id": 386,
+        "form":"Alternative",
+        "sub_name":"Speed"
+    },
+    {
+        "api_id": "10088",
+        "id": 428,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10058",
+        "id": 445,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10059",
+        "id": 448,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10060",
+        "id": 460,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10068",
+        "id": 475,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10245",
+        "id": 483,
+        "form": "Alternative",
+        "sub_name":"Origin"
+    },
+    {
+        "api_id": "10246",
+        "id": 484,
+        "form": "Alternative",
+        "sub_name":"Origin"
+    }
+    , 
+    {
+        "api_id": "10007",
+        "id": 487,
+        "form": "Alternative",
+        "sub_name":"Origin"
+    },
+    {
+        "api_id": "10006",
+        "id": 492,
+        "form":"Alternative",
+        "sub_name":"Sky"
+    },
+    {
+        "api_id": "10236",
+        "id": 503,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10069",
+        "id": 531,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10237",
+        "id": 549,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10176",
+        "id": 554,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10177",
+        "id": 555,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10179",
+        "id": 562,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    },
+    {
+        "api_id": "10207",
+        "id": 569,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10238",
+        "id": 570,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10239",
+        "id": 571,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10180",
+        "id": 618,
+        "form": "Alternative",
+        "sub_name":"Galarian"
+    }, 
+    {
+        "api_id": "10240",
+        "id": 628,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10019",
+        "id": 641,
+        "form":"Alternative",
+        "sub_name":"Therian"
+    },
+    {
+        "api_id": "10020",
+        "id": 642,
+        "form":"Alternative",
+        "sub_name":"Therian"
+    },
+    {
+        "api_id": "10021",
+        "id": 645,
+        "form":"Alternative",
+        "sub_name":"Therian"
+    },
+    {
+        "api_id": "10022",
+        "id": 646,
+        "form":"Alternative",
+        "sub_name":"Black"
+    },
+    {
+        "api_id": "10023",
+        "id": 646,
+        "form":"Alternative",
+        "sub_name":"White"
+    },
+    {
+        "api_id": "10024",
+        "id": 647,
+        "form":"Alternative",
+        "sub_name":"Resolute"
+    },
+    {
+        "api_id": "10018",
+        "id": 648,
+        "form":"Alternative",
+        "sub_name":"Pirouette"
+    },
+    {
+        "api_id": "10117",
+        "id": 658,
+        "form":"Alternative",
+        "sub_name":"Ash's"
+    },
+    {
+        "api_id": "10061",
+        "id": 670,
+        "form":"Alternative",
+        "sub_name":"Eternal"
+    },
+    {
+        "api_id": "10025",
+        "id": 678,
+        "form":"Alternative",
+        "sub_name":"Female"
+    },
+    {
+        "api_id": "10241",
+        "id": 705,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10242",
+        "id": 706,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10243",
+        "id": 713,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10120",
+        "id": 718,
+        "form":"Alternative",
+        "sub_name":"Complete"
+    },
+    {
+        "api_id": "10075",
+        "id": 719,
+        "form": "Mega",
+        "sub_name":"Mega"
+    },
+    {
+        "api_id": "10086",
+        "id": 720,
+        "form":"Alternative",
+        "sub_name":"Unbound"
+    },
+    {
+        "api_id": "10244",
+        "id": 724,
+        "form": "Alternative",
+        "sub_name":"Hisuian"
+    },
+    {
+        "api_id": "10126",
+        "id": 745,
+        "form":"Alternative",
+        "sub_name":"Midnight"
+    },
+    {
+        "api_id": "10152",
+        "id": 745,
+        "form":"Alternative",
+        "sub_name":"Dusk"
+    },
+    {
+        "api_id": "10155",
+        "id": 800,
+        "form":"Alternative",
+        "sub_name":"Dusk Mane"
+    },
+    {
+        "api_id": "10156",
+        "id": 800,
+        "form":"Alternative",
+        "sub_name":"Dawn Wings"
+    },
+    {
+        "api_id": "10157",
+        "id": 800,
+        "form":"Alternative",
+        "sub_name":"Ultra"
+    },
+    {
+        "api_id": "10147",
+        "id": 801,
+        "form":"Alternative",
+        "sub_name":"Original"
+    },
+    {
+        "api_id": "10208",
+        "id": 809,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10209",
+        "id": 812,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10210",
+        "id": 815,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10211",
+        "id": 818,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10212",
+        "id": 823,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10213",
+        "id": 826,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10214",
+        "id": 834,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10215",
+        "id": 839,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10216",
+        "id": 841,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10217",
+        "id": 842,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10218",
+        "id": 844,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10184",
+        "id": 849,
+        "form":"Alternative",
+        "sub_name":"Low Key"
+    },
+    {
+        "api_id": "10228",
+        "id": 849,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10220",
+        "id": 851,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10221",
+        "id": 858,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10222",
+        "id": 861,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10223",
+        "id": 869,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10224",
+        "id": 879,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10225",
+        "id": 884,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10188",
+        "id": 888,
+        "form":"Alternative",
+        "sub_name":"Crowned"
+    },
+    {
+        "api_id": "10189",
+        "id": 889,
+        "form":"Alternative",
+        "sub_name":"Crowned"
+    },
+    {
+        "api_id": "10190",
+        "id": 890,
+        "form":"Alternative",
+        "sub_name":"Eternamax"
+    },
+    {
+        "api_id": "10226",
+        "id": 892,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10191",
+        "id": 892,
+        "form":"Alternative",
+        "sub_name":"Rapid Strike"
+    },
+    {
+        "api_id": "10227",
+        "id": 892,
+        "form": "Alternative",
+        "sub_name":"Gigantamax"
+    },
+    {
+        "api_id": "10193",
+        "id": 898,
+        "form":"Alternative",
+        "sub_name":"Ice Rider"
+    },
+    {
+        "api_id": "10194",
+        "id": 898,
+        "form":"Alternative",
+        "sub_name":"Shadow Rider"
+    },
+    {
+        "api_id": "10272",
+        "id": 901,
+        "form":"Alternative",
+        "sub_name":"BloodMoon"
+    },
+    {
+        "api_id": "10249",
+        "id": 905,
+        "form":"Alternative",
+        "sub_name":"Therian"
+    },
+    {
+        "api_id": "10256",
+        "id": 964,
+        "form":"Alternative",
+        "sub_name":"Hero"
+    },
+    {
+        "api_id": "10276",
+        "id": 1024,
+        "form":"Alternative",
+        "sub_name":"Terastal"
+    },
+    {
+        "api_id": "10277",
+        "id": 1024,
+        "form":"Alternative",
+        "sub_name":"Stellar"
+    }
+]
+
+
+

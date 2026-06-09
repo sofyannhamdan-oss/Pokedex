@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/header.css">
+    <link rel="stylesheet" href="style/main.css">
+    <link rel="stylesheet" href="style/scroll bar.css">
+    <link rel="stylesheet" href="style/search.css">
+
+
+    <link rel="icon" href="img/web icon.png" type="image/png">
+
+    <title>Pokedex</title>
+
+</head>
+<body>
+        <!----------Header---------->
+    <header class="header">
+
+        <!--------Logo-------->
+        <div class="logo">
+            <a href="index.html">
+                <img src="img/icon.png" alt="pokedex">
+            </a>
+        </div>
+        <div class="search-input">
+            <div class="search-icon">
+                <img src="img/search icon.png" alt="search">
+            </div>  
+            <input type="text" spellcheck="false" placeholder="Search for Pokemons" class="search-box" autofocus >
+            <button class="go-back"><img src="img/arrow icon.png" alt=""></button>
+            <div class="empty"></div>
+        </div>
+
+    </header>
+
+
+
+    <!-- Empty area -->
+    <div id="aaaa"></div>
+
+    <div class="container"></div>
+
+    <div id="aff">
+        <div class="affirmative">Try searching a Pokemon by Name or Id.</div>
+    </div>
+    <div id="neg">
+        <div class="negative">No matching pokemon was found.</div>
+    </div>
+
+
+
+
+    <div class="loading"><img src="img/loading icon.png" alt=""> Loading...</div>
+    <!--Script-->
+    <script src="script/search_script.js"></script>
+
+</body>
+</html>

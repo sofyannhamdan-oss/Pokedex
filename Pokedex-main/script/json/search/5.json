@@ -1,0 +1,406 @@
+[
+    {
+        "id": 405,
+        "name": "luxray"
+    },
+    {
+        "id": 406,
+        "name": "budew"
+    },
+    {
+        "id": 407,
+        "name": "roserade"
+    },
+    {
+        "id": 408,
+        "name": "cranidos"
+    },
+    {
+        "id": 409,
+        "name": "rampardos"
+    },
+    {
+        "id": 410,
+        "name": "shieldon"
+    },
+    {
+        "id": 411,
+        "name": "bastiodon"
+    },
+    {
+        "id": 412,
+        "name": "burmy"
+    },
+    {
+        "id": 413,
+        "name": "wormadam"
+    },
+    {
+        "id": 414,
+        "name": "mothim"
+    },
+    {
+        "id": 415,
+        "name": "combee"
+    },
+    {
+        "id": 416,
+        "name": "vespiquen"
+    },
+    {
+        "id": 417,
+        "name": "pachirisu"
+    },
+    {
+        "id": 418,
+        "name": "buizel"
+    },
+    {
+        "id": 419,
+        "name": "floatzel"
+    },
+    {
+        "id": 420,
+        "name": "cherubi"
+    },
+    {
+        "id": 421,
+        "name": "cherrim"
+    },
+    {
+        "id": 422,
+        "name": "shellos"
+    },
+    {
+        "id": 423,
+        "name": "gastrodon"
+    },
+    {
+        "id": 424,
+        "name": "ambipom"
+    },
+    {
+        "id": 425,
+        "name": "drifloon"
+    },
+    {
+        "id": 426,
+        "name": "drifblim"
+    },
+    {
+        "id": 427,
+        "name": "buneary"
+    },
+    {
+        "id": 428,
+        "name": "lopunny"
+    },
+    {
+        "id": 429,
+        "name": "mismagius"
+    },
+    {
+        "id": 430,
+        "name": "honchkrow"
+    },
+    {
+        "id": 431,
+        "name": "glameow"
+    },
+    {
+        "id": 432,
+        "name": "purugly"
+    },
+    {
+        "id": 433,
+        "name": "chingling"
+    },
+    {
+        "id": 434,
+        "name": "stunky"
+    },
+    {
+        "id": 435,
+        "name": "skuntank"
+    },
+    {
+        "id": 436,
+        "name": "bronzor"
+    },
+    {
+        "id": 437,
+        "name": "bronzong"
+    },
+    {
+        "id": 438,
+        "name": "bonsly"
+    },
+    {
+        "id": 439,
+        "name": "mime jr"
+    },
+    {
+        "id": 440,
+        "name": "happiny"
+    },
+    {
+        "id": 441,
+        "name": "chatot"
+    },
+    {
+        "id": 442,
+        "name": "spiritomb"
+    },
+    {
+        "id": 443,
+        "name": "gible"
+    },
+    {
+        "id": 444,
+        "name": "gabite"
+    },
+    {
+        "id": 445,
+        "name": "garchomp"
+    },
+    {
+        "id": 446,
+        "name": "munchlax"
+    },
+    {
+        "id": 447,
+        "name": "riolu"
+    },
+    {
+        "id": 448,
+        "name": "lucario"
+    },
+    {
+        "id": 449,
+        "name": "hippopotas"
+    },
+    {
+        "id": 450,
+        "name": "hippowdon"
+    },
+    {
+        "id": 451,
+        "name": "skorupi"
+    },
+    {
+        "id": 452,
+        "name": "drapion"
+    },
+    {
+        "id": 453,
+        "name": "croagunk"
+    },
+    {
+        "id": 454,
+        "name": "toxicroak"
+    },
+    {
+        "id": 455,
+        "name": "carnivine"
+    },
+    {
+        "id": 456,
+        "name": "finneon"
+    },
+    {
+        "id": 457,
+        "name": "lumineon"
+    },
+    {
+        "id": 458,
+        "name": "mantyke"
+    },
+    {
+        "id": 459,
+        "name": "snover"
+    },
+    {
+        "id": 460,
+        "name": "abomasnow"
+    },
+    {
+        "id": 461,
+        "name": "weavile"
+    },
+    {
+        "id": 462,
+        "name": "magnezone"
+    },
+    {
+        "id": 463,
+        "name": "lickilicky"
+    },
+    {
+        "id": 464,
+        "name": "rhyperior"
+    },
+    {
+        "id": 465,
+        "name": "tangrowth"
+    },
+    {
+        "id": 466,
+        "name": "electivire"
+    },
+    {
+        "id": 467,
+        "name": "magmortar"
+    },
+    {
+        "id": 468,
+        "name": "togekiss"
+    },
+    {
+        "id": 469,
+        "name": "yanmega"
+    },
+    {
+        "id": 470,
+        "name": "leafeon"
+    },
+    {
+        "id": 471,
+        "name": "glaceon"
+    },
+    {
+        "id": 472,
+        "name": "gliscor"
+    },
+    {
+        "id": 473,
+        "name": "mamoswine"
+    },
+    {
+        "id": 474,
+        "name": "porygon z"
+    },
+    {
+        "id": 475,
+        "name": "gallade"
+    },
+    {
+        "id": 476,
+        "name": "probopass"
+    },
+    {
+        "id": 477,
+        "name": "dusknoir"
+    },
+    {
+        "id": 478,
+        "name": "froslass"
+    },
+    {
+        "id": 479,
+        "name": "rotom"
+    },
+    {
+        "id": 480,
+        "name": "uxie"
+    },
+    {
+        "id": 481,
+        "name": "mesprit"
+    },
+    {
+        "id": 482,
+        "name": "azelf"
+    },
+    {
+        "id": 483,
+        "name": "dialga"
+    },
+    {
+        "id": 484,
+        "name": "palkia"
+    },
+    {
+        "id": 485,
+        "name": "heatran"
+    },
+    {
+        "id": 486,
+        "name": "regigigas"
+    },
+    {
+        "id": 487,
+        "name": "giratina"
+    },
+    {
+        "id": 488,
+        "name": "cresselia"
+    },
+    {
+        "id": 489,
+        "name": "phione"
+    },
+    {
+        "id": 490,
+        "name": "manaphy"
+    },
+    {
+        "id": 491,
+        "name": "darkrai"
+    },
+    {
+        "id": 492,
+        "name": "shaymin"
+    },
+    {
+        "id": 493,
+        "name": "arceus"
+    },
+    {
+        "id": 494,
+        "name": "victini"
+    },
+    {
+        "id": 495,
+        "name": "snivy"
+    },
+    {
+        "id": 496,
+        "name": "servine"
+    },
+    {
+        "id": 497,
+        "name": "serperior"
+    },
+    {
+        "id": 498,
+        "name": "tepig"
+    },
+    {
+        "id": 499,
+        "name": "pignite"
+    },
+    {
+        "id": 500,
+        "name": "emboar"
+    },
+    {
+        "id": 501,
+        "name": "oshawott"
+    },
+    {
+        "id": 502,
+        "name": "dewott"
+    },
+    {
+        "id": 503,
+        "name": "samurott"
+    },
+    {
+        "id": 504,
+        "name": "patrat"
+    },
+    {
+        "id": 505,
+        "name": "watchog"
+    }
+]

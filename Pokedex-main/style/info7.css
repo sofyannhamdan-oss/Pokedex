@@ -1,0 +1,19 @@
+.n7{
+    width: 1120px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.n7 h2{
+    color: #cecece;
+    margin-right: auto;
+    width: 100%;
+}
+.alt-container{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    color: #cecece;
+
+}

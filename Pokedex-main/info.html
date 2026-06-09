@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/header.css">
+    <link rel="stylesheet" href="style/scroll bar.css">
+    <link rel="stylesheet" href="style/info1.css">
+    <link rel="stylesheet" href="style/info2.css">
+    <link rel="stylesheet" href="style/info3.css">
+    <link rel="stylesheet" href="style/info4.css">
+    <link rel="stylesheet" href="style/info5.css">
+    <link rel="stylesheet" href="style/info6.css">
+    <link rel="stylesheet" href="style/info7.css">
+    <link rel="stylesheet" href="style/info8.css">
+    <link rel="stylesheet" href="style/types.css">
+    <link rel="stylesheet" href="style/uniqueness.css">
+
+
+    <link rel="icon" href="img/web icon.png" type="image/png">
+
+    <title>Pokedex</title>
+
+
+
+
+
+
+
+
+</head>
+<body>
+        <!----------Header---------->
+    <header class="header">
+
+        <!--------Logo-------->
+        <div class="logo">
+            <a href="index.html">
+                <img src="img/icon.png" alt="pokedex">
+            </a>
+        </div>
+
+            <!--------Search-------->
+        <div class="search-container">
+            <a href="search.html">
+                <button type="button" class="search button">
+                    <img src="img/search icon.png" alt="search">
+                </button>
+            </a>
+        </div>
+    </header>
+
+
+    <!-- Empty area -->
+    <div id="aaaa"></div>
+
+
+
+
+    <div class="container"> 
+
+        <!--(Name,Id,Image) box-->
+        <div class="box n1">
+            <div>
+                <h6 id="id"></h6>
+                <h6 id="subname"></h6>
+            </div>
+            <h1 id="name"></h1>
+            <img id="image">
+        </div>
+
+
+
+        <div class="box n2">
+            <!--  ENTRY  -->
+            <div class="space entry">No Pokedex entry was provided</div>
+
+            <!--  HEIGHT AND WEIGHT  -->
+
+            <div class="space">
+
+                <div class="height">
+                    <div>Height :</div><div id="height">?</div>
+                </div>
+
+                <div class="weight">
+                    <div>Weight :</div><div id="weight">?</div>
+                </div>
+
+            </div>
+
+            <!--  ABILITIES  -->
+
+            <div class="space ability">
+                <div>Ability</div>
+                <p>:</p>
+                <div id="ability">?</div>
+            </div>
+
+            <div class="space ability">
+                <div>Hidden ability</div>
+                <p>:</p>
+                <div id="hidden">?</div>
+            </div>
+
+
+            <!--  GEN AND UNNIQUENESS  -->
+
+            <div class="space transparent">
+
+                <div class="gen">
+                    <div>Generation :</div>
+                    <div id="generation">?</div>
+                </div>
+
+                <div class="unique">
+                    <div id="uniqueness" class="none"></div>
+                    <div class="uniqueness">?</div>
+                </div>
+
+
+            </div>
+
+
+
+            <div class="types">
+                <div id="t1" class=""></div>
+                <div id="t2" class=""></div>
+            </div>
+            
+        </div>
+    </div>
+    
+    <div class="container">
+        <div class="box n3">
+            <h2>Base stats :</h2>
+            <div class="stat">
+                <div class="name nh">HP</div>
+                <div class="bar h"></div>
+            </div>
+            <div class="stat">
+                <div class="name na">Attack</div>
+                <div class="bar a"></div>
+            </div>
+            <div class="stat">
+                <div class="name nd">Defense</div>
+                <div class="bar d"></div>
+            </div>
+            <div class="stat">
+                <div class="name ns-a">Sp.Att</div>
+                <div class="bar s-a"></div>
+
+            </div>
+            <div class="stat">
+                <div class="name ns-d">Sp.Def</div>
+                <div class="bar s-d"></div>
+            </div>
+            <div class="stat">
+                <div class="name ns">Speed</div>
+                <div class="bar s"></div>
+            </div>
+            <div class="total">Total :&ThinSpace;<div id="total"></div></div>
+        </div>
+        <div class="box n4">
+            <div class="title">Weaknesses :</div>
+            <div class="chart" id="weakness">
+                
+                <!--
+                <div class="a-type">
+                    <div class="secondary ghost">GHOST</div>
+                    <div class="damage d-ghost">2x</div>
+                </div>
+                -->
+
+
+            </div>
+            <div class="title">Resistances :</div>
+            <div class="chart" id="resistant"></div>
+        </div>
+    </div>
+
+    <div class="container" id="evolution-chain">
+        <div class="box n6">
+            <h2>Evolution chain :</h2>
+            <div class="evolution-container">
+
+            </div>
+        </div>
+    </div>
+
+    <div class="container" id="alternative-forms">
+        <div class="box n7">
+            <h2>Alternative forms :</h2>
+            <div class="alt-container"></div>
+        </div>
+    </div>
+
+
+
+    <div class="container">
+        <div class="box n8">
+            <h2>Training & Breading : </h2>
+            <div class="div-container">
+                <div class="base half">Base xp : ?</div>
+                <div class="base half">Happiness : ?</div>
+            </div>
+            <div class="div-container">
+                <div class="base half">
+                    EV : <div id="EV">?</div>
+                </div>
+                <div class="base half">Catch rate : ?</div>
+            </div>
+
+            <div class="div-container">
+                <div class="base full">
+                    <div class="half">Growth rate</div>
+                    : 
+                    <div class="half" id="growth-rate">?</div>
+                </div>
+            </div>
+            <div class="div-container" id="gender">
+
+            </div>
+
+            <div class="div-container">
+                <div class="base full">
+                    <div class="half">Egg cycle</div>
+                    : 
+                    <div class="half" id="egg-cycle">?</div>
+                </div>
+            </div>
+
+
+            <div class="div-container">
+                <div class="base full">
+                    <div class="half">Egg group</div>
+                    : 
+                    <div class="half" id="egg-group">?</div>
+                </div>
+            </div>
+
+
+        </div>
+        <div class="box n9">
+            <h2>Ability details :</h2>
+            <div class="details-container">
+            </div>
+            <div class="details">
+            </div>
+
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="box n5">
+            <h2>Sprites :</h2>
+            <div class="sprites">
+                <div>
+                    <img src="" alt="" id="fd">
+                    <img src="" alt="" id="bd">
+                </div>
+                <div>
+                    <img src="" alt="" id="fs">
+                    <img src="" alt="" id="bs">
+                </div>
+            </div>
+            <div class="sprites">
+                <div class="animation">
+                    <img src="" alt="" id="afd">
+                    <img src="" alt="" id="abd">
+                </div>
+                <div class="animation">
+                    <img src="" alt="" id="afs">
+                    <img src="" alt="" id="abs">
+                </div>
+            </div>
+            <div class="sprites">
+                <div>
+                    <img src="" alt="" id="n-aw">
+                    <img src="" alt="" id="s-aw">
+                </div>
+                <div>
+                    <img src="" alt="" id="n-3d">
+                    <img src="" alt="" id="s-3d">
+                </div>
+            </div>
+        </div>
+        
+    </div>
+
+
+
+    <template id="chain-box">
+        <div class="evolution">
+            <div></div>
+            <img src="" alt="">
+            <div></div>
+        </div>
+        <div class="arrow">&rarr;</div>
+    </template>
+
+    <template id="chain-box-2-branches">
+        <div class="column">
+            <div class="arrow">&nearr;</div>
+            <div class="arrow">&searr;</div>
+        </div>
+        <div class="column double-evo"></div>
+    </template>
+    <script src="script/info_script.js"></script>
+</body>
+</html>

@@ -1,0 +1,200 @@
+
+/*------ Container for all pokemon box ------*/
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    overflow: hidden;
+    padding-bottom:10px ;
+
+}
+/*------Pokemon boxes Blueprint------*/
+
+.pokemon-box{
+    background-color: #2f33588e;
+    width: 210px;
+    height: 280px;
+    border-radius: 10px;
+    border: 1px solid #1a1c3fb9;
+    box-shadow: 0px 0px 30px #11121ab9;
+    transition: transform 0.3s ease;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    z-index: 50;
+
+}
+.mega-box{
+    /*background:linear-gradient(0deg,#643e698e,#3728508e,#3a2f588e,#2f33588e);*/
+    background-color: #223a4963;
+    border: 1px solid #331a3fb9;
+    box-shadow: 0px 0px 30px #15111ab9;
+}
+@media (max-width:450px) {
+    .pokemon-box{
+        width: 200px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+}
+.pokemon-box:hover{
+    transform: scale(1.1);
+}
+/*------Pokemon boxes components------*/
+
+/*Pokemon name*/
+.pokemon-box h4{
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    height: 39px;
+    font-size: 27px ;
+    color: #cecece;
+    width: fit-content;
+}
+
+/*Pokemon image*/
+.pokemon-box img{
+    width: 100%;
+}
+/*Pokemon id number*/
+
+.pokemon-box h3{
+    font-size: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #cecece;
+    width: fit-content;
+}
+
+
+
+/*--------------------loading button--------------------*/
+
+/*----Parent div for centering content----*/
+#aaa{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+/*----Child div for components----*/
+#load-container{
+    display: flex;
+    width: 230px;
+    height: 50px;
+    background-color: #444974;
+    transition: transform 0.5s ease;
+    border-radius: 10px;
+    box-shadow: 0px 0px 30px #11121ab9;
+}
+
+#load-container:hover{
+    transform: scale(1.1);
+}
+
+
+
+/*--------------Components--------------*/
+.loading-button{
+    width: 78%;
+    height: 100%;
+    font-size: 15px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;    
+    border: 0;
+    background-color: #444974;
+    color: #cecece;
+    cursor: pointer;
+}
+
+#loading-image{
+    width: 22%;
+    height: 100%;
+    border: 0;
+    cursor: pointer; 
+    transition: transform 0.8s ease;
+    
+}
+#load-container:hover #loading-image{
+    transform: rotate(360deg);
+}
+
+
+
+
+
+
+
+@keyframes rotateFast {
+    0% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(180deg);
+    }
+  }
+  
+
+  @keyframes rotateSlow {
+    50% {
+      transform: rotate(180deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+.loading{
+    display: none;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    color: #cecece;
+    margin: 10px 0px;
+}
+.loading img{
+    animation: rotateFast 1s infinite cubic-bezier(0.4, 0, 0.2, 1),
+    rotateSlow 2s infinite cubic-bezier(0.4, 0, 0.2, 1); 
+    width: 50px;
+}
+
+
+
+
+
+.warning{
+    display: none;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+
+}
+.unused{
+    background-color: rgba(255, 128, 149, 0.712);
+    color: rgb(83, 50, 50);
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgb(66, 32, 38);
+    padding: 15px;
+    border-radius: 10px;
+    flex-direction: column;
+}
+.unused h3,.unused p{
+    text-align: center;
+}
+.unused div{
+    line-height: 1.8;
+}
+
+
+
+
+@media (max-width:700px) {
+    .unused{
+        font-size: 12px;
+    }
+}

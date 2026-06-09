@@ -1,0 +1,32 @@
+.n4{
+    width: 600px;
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+}
+.title{
+    text-align: center;
+    color: #cecece;
+    font-size: 25px;
+    font-weight: bold;
+}
+@media (max-width:600px) {
+    .title{
+        font-size: 18px;
+    }
+}
+.chart{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.a-type{
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+    flex-grow: 1;
+}
